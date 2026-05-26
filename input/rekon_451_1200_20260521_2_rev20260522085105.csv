@@ -1,0 +1,3 @@
+id_rekon;kode_biller;kode_ft;total_pembayaran;total_settlement;nama;wkt_transaksi;wkt_rekonsiliasi;nomor_jurnal_pembukuan;status_rekonsiliasi;nomor_invoice;nomor_pembayaran;nama_channel
+34386713;1200;034091434072/FT2614143PWX;102900;102900;Galih;2026-05-21 08:18:00;2026-05-22 08:28:46.100204;3548350521081847000451;SUKSES;TravoyGjrG1nw4YpYHIt6alCqEz8hdc;00500185182;MBANK
+34394752;1200;030801870757/FT261416FK0Z;49669;49669;Taufik Kurniawan;2026-05-21 15:39:00;2026-05-22 08:40:00.041314;4081710521153907000451;SUKSES;TravoyW6F4Pr1jsytsxoCak9Zlprq9r;00500155206;MBANK

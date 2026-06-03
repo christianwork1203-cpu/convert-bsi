@@ -1,0 +1,4 @@
+﻿test,,,,,,,,,,,
+,,,,,,,,,,,
+no,nomor_invoice,nomor_pembayaran,nama,informasi_tagihan,waktu_transaksi,total_nominal_pembayaran,status_transaksi,ca_reff,kode_unik_transaksi_bank,info_judul_1,info_isi_1
+1,TravoyVA9PsvV8aqC5k5L6Q5amrt9no,00500179701,Galih,REF_NUM TravoyVA9PsvV8aqC5k5L6Q5amrt9no,2026-06-02 15:33:23.86908,102900,Sukses,,4135380602153322000451,REF_NUM,TravoyVA9PsvV8aqC5k5L6Q5amrt9no
